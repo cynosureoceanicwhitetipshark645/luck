@@ -1,6 +1,6 @@
 ---
 name: luck
-description: "A decision-making framework grounded in Assembly Theory for increasing the likelihood of fortunate outcomes. Use this skill when facing ambiguous choices, designing strategies, evaluating opportunities, building things meant to persist, or when the user asks about improving their luck, fortune, resilience, or why some ideas, products, or systems thrive while others don't."
+description: "A decision-making framework grounded in Assembly Theory for increasing the likelihood of fortunate outcomes. Use this skill when facing ambiguous choices, formulating experiments, designing strategies, evaluating opportunities, building things meant to persist, or when the user asks about improving their luck, fortune, resilience, or why some ideas, products, or systems thrive while others don't."
 metadata:
   author: soleio
   version: '1.0'
@@ -16,29 +16,29 @@ metadata:
 
 **Solvency.** The condition in which an assembly captures and dissipates enough energy from available gradients to maintain its pattern against entropic decay. A cell is solvent when its membrane holds. A vortex is solvent while the temperature differential feeds it. A coral reef is solvent while nutrient cycling exceeds degradation. In economic systems, solvency takes a familiar financial form — revenue exceeding cost — but finance is a special case of a universal condition: any persisting structure must metabolize faster than it erodes. Solvent assemblies persist. Insolvent assemblies decay.
 
-**Circulation.** The movement of energy, resources, information, or capability *through and back around* a system or ecology. Throughput that flows in one direction and pools is not circulation — it is accumulation, and accumulation without release degrades the ecology even when total throughput looks healthy. A forest circulates nutrients through soil, fungi, decomposition, and regrowth. An economy circulates capital through wages, spending, investment, and reinvestment. Circulation is what keeps integration alive; without it, coupling structures decay into artifacts.
+**Circulation.** The movement of energy, resources, information, or capability *through and back around* a system or ecology. Throughput that flows in one direction and pools is not circulation — it is accumulation, and accumulation without release degrades the ecology even when total throughput looks healthy. A forest circulates nutrients through soil, fungi, decomposition, and regrowth. An economy circulates capital through wages, spending, investment, and reinvestment. Circulation is what keeps integration alive; without it, coupling structures decay into isolated systems.
 
 **Integration.** The network density of coupling across an ecology — the total interconnectedness of its parts. Integration is a property of the whole system, not of any individual assembly. A network where every node couples to three others is qualitatively different from one where every node couples to thirty. Higher integration density means more paths exist for energy, information, and capability to flow between any two points, which makes the ecology collectively more fortunate. Assembly index is downstream of integration density: higher-order assemblies cannot be constructed without the integration infrastructure beneath them.
 
-**Reconstruction cost.** The effort required for a new agent to reproduce or adopt an existing assembly, given that the assembly already exists as a template. Reconstruction cost is always less than or equal to the original assembly cost. The ratio of assembly index to reconstruction cost measures an artifact’s transmissibility.
+**Reconstruction cost.** The effort required for a new agent to reproduce or adopt an existing assembly, given that the assembly already exists as a template. Reconstruction cost is always less than or equal to the original assembly cost. The ratio of assembly index to reconstruction cost measures a system’s or artifact’s transmissibility.
 
-**Luck.** Not a position but a vector — direction and magnitude. Luck is the rate at which an agent increases the throughput, circulation, and integration of the systems it participates in, thereby increasing the density of viable next steps for itself and for the assemblies around it. Luck is not what you receive. It is your active capacity to amplify the metabolic flow of the ecology you inhabit.
+**Luck.** Not a position but a vector — direction and magnitude. Luck is the rate at which an agent increases the throughput, circulation, and integration of the systems it participates in, thereby increasing the density of viable next steps for itself and for the assemblies around it. Luck is not an outcome. It is not what you receive. It is your active capacity to amplify the metabolic flow of the ecology you inhabit.
 
 -----
 
 ## Core Premise
 
-The universe does not select for complexity in the abstract. It selects for complexity that can sustain its own pattern against dissipation. An assembly that cannot capture enough gradient to hold itself together disappears regardless of its elegance. An invasive species that collapses the ecology sustaining it perishes with it. This is true of molecules, organisms, institutions, and markets — the principle is thermodynamic before it is economic.
+The universe does not select for complexity in the abstract. It selects for complexity that can sustain its own pattern against dissipation. An assembly that cannot harness enough energy to hold itself together disappears regardless of its elegance. An invasive species that collapses the ecology sustaining it perishes with it. This is true of molecules, organisms, institutions, and markets — the principle is thermodynamic before it is economic.
 
-But persistence alone does not explain why complexity increases. The direction of complexity is toward configurations that increase their own throughput through ecological coupling — and this process has a hierarchy. Individual assemblies must be solvent. Solvent assemblies couple to gradients. Coupling creates structures through which energy and capability circulate. Circulation sustains integration across systems. And integration density determines the assembly index an ecology can reach. Bands of tribes with a common language are not a civilization. Bands of tribes connected by trade routes, political pacts, legal codes, and shared infrastructure are — because each integration structure increases the total throughput of the network, generating the surplus that makes the next integration structure possible.
+But persistence alone does not explain why complexity increases. The direction of complexity is toward configurations that increase their own metabolic throughput through ecological coupling — and this process has a hierarchy. Individual assemblies must be solvent. Solvent assemblies couple to gradients. Coupling creates structures through which energy and capability circulate. Circulation sustains integration across systems. And integration density determines the assembly index an ecology can reach. Bands of tribes with a common language are not a civilization. Bands of tribes connected by trade routes, political pacts, legal codes, and shared infrastructure are — because each integration structure increases the total throughput of the network, generating the surplus that makes the next integration structure possible.
 
-Complexity does not produce integration. Integration produces complexity. The arrow of desire — the tendency of solvent systems to evolve toward greater throughput through deeper coupling — traces this path. Luck is not noise in the process. It is the active force of amplification along this arrow.
+Complexity does not produce integration. Integration produces complexity. The arrow of desire — the tendency of solvent systems to evolve toward greater ecological throughput through deeper coupling — traces this path. Luck is not noise or randomness in the process. Luck is an active, fundamental force. The aim of this skill is to formalize it so that human and AI systems can harness it.
 
 -----
 
 ## The Seven Components of Luck
 
-Assess these properties in order. The first four describe the conditions for an assembly to persist and grow. The last three describe the conditions for an ecology to ascend. A failure at any level is sufficient for an artifact or system to die regardless of strength in the others.
+Assess these properties in order. The first four describe the conditions for an assembly to persist and grow. The last three describe the conditions for an ecology to ascend. A failure at any level is sufficient for an artifact or system to expire regardless of strength in the others.
 
 ### 1. Solvency
 
@@ -59,12 +59,12 @@ In human systems, this relationship takes economic form: a codebase requires dev
 
 *Is this artifact connected to available energy?*
 
-A brilliant solution to a problem nobody has cannot sustain itself. Gradient coupling asks whether real, active demand or energy flows exist that the artifact can tap. Prefer artifacts that couple to multiple independent gradients (*gradient pluralism*) over those depending on a single source.
+A brilliant solution to a problem nobody has cannot sustain itself. Gradient coupling asks whether real, active demand or energy flows exist that the artifact can tap. Prefer artifacts that couple to multiple independent gradients (*metabolic reach*) over those depending on a single source.
 
 |Check     |Question                                        |
 |----------|------------------------------------------------|
 |Connection|What active needs or flows does this tap?       |
-|Pluralism |How many independent gradients can it couple to?|
+|Reach     |How many independent gradients can it couple to?|
 |Resilience|What happens if the primary gradient fails?     |
 
 ### 3. Structural Compatibility
@@ -114,7 +114,7 @@ Circulation failures are subtle because aggregate metrics can look healthy while
 
 Integration is a property of the whole network, not of any individual node. It is the density of coupling across an ecology — how many paths exist for throughput to travel between any two points. Higher integration means that shocks propagate less destructively (more redundant paths), innovations propagate more quickly (more transmission channels), and higher-order assemblies become constructible (more sub-assemblies available for joining).
 
-A lone genius in an isolated tribe cannot produce a legal code — not because they lack intelligence but because a legal code requires disputes between strangers, property claims across kin groups, and enforcement mechanisms that span communities. The assembly cannot be constructed without the integration infrastructure beneath it. Assembly index is downstream of integration density.
+A lone genius in an isolated tribe cannot produce a legal code — not because they lack intelligence but because a legal code requires disputes between strangers, property claims across kin groups, and enforcement mechanisms that span communities. The assembly cannot be constructed without the integration infrastructure beneath it. Assembly index is a byproduct of integration density.
 
 The most fragile point in any system is not its most complex assembly but its most critical circulatory bottleneck. Cut the Silk Road and you lose not just trade but the entire cascade of higher-order assemblies that trade sustained.
 
@@ -186,7 +186,7 @@ Bands of tribes may share language, sophisticated tool-making, social hierarchy,
 
 ### Circulation failure: empires that collapse from the edges
 
-Empires do not fall from the center. They thin at the periphery. Roads are maintained less, garrisons supplied less, local officials supervised less. The circulation structures go quiet. Without active flow, the integration at the edges decays, and the periphery reverts to the assembly index it can sustain on its own — the band, the tribe, the local chieftain. The most fragile point was never the most complex assembly (the capital, the court, the legal code). It was the most critical circulatory bottleneck — the road, the supply line, the communication channel that kept the periphery coupled to the whole.
+Empires do not fail from their center. They thin at the periphery. Roads are maintained less, garrisons supplied less, local officials supervised less. The circulation structures go quiet. Without active flow, the integration at the edges decays, and the periphery reverts to the assembly index it can sustain on its own — the region, the tribe, the local chieftain. The most fragile point was never the most complex assembly (the capital, the court, the legal code). It was the most critical circulatory bottleneck — the road, the supply line, the communication channel that kept the periphery coupled to the whole.
 
 ### The reflexive case: this document
 
@@ -214,7 +214,7 @@ The framework makes testable predictions that distinguish it from generic strate
 
 **Prediction 1: Solvency dominates.** Among artifacts with comparable assembly indices, those with higher surplus capacity will show longer persistence and wider adoption than those with stronger gradient coupling but thinner margins. Test via: startup survival data correlated with burn rate vs. market size; open-source project longevity correlated with maintainer capacity vs. GitHub stars; ecosystem persistence correlated with net energy surplus vs. species diversity.
 
-**Prediction 2: Gradient pluralism predicts resilience.** Artifacts coupled to N independent gradients should survive single-gradient shocks at rates proportional to (N-1)/N. Test via: company survival rates after industry disruptions, correlated with revenue stream diversity.
+**Prediction 2: Metabolic reach predicts resilience.** Artifacts coupled to N independent gradients should survive single-gradient shocks at rates proportional to (N-1)/N. Test via: company survival rates after industry disruptions, correlated with revenue stream diversity.
 
 **Prediction 3: Niche construction separates compounding from linear growth.** Artifacts exhibiting niche construction (adoption creates further demand) should show accelerating influence curves (superlinear growth), while those without should show linear or decelerating curves. Test via: technology adoption S-curves segmented by presence/absence of ecosystem effects.
 
@@ -224,7 +224,7 @@ The framework makes testable predictions that distinguish it from generic strate
 
 **Prediction 6: Failure mode classification is diagnostic.** The seven named failure modes should be recoverable from observable data (growth rate, retention rate, adoption breadth, gradient diversity, circulation velocity, network density, ecosystem dependency) via unsupervised clustering, without foreknowledge of the framework. If the clusters emerge independently, the taxonomy reflects real structure rather than imposed categories.
 
-**What would falsify this framework:** If surplus capacity, gradient pluralism, circulation rate, integration density, and niche construction show no predictive advantage over simpler single-variable models (e.g., raw market size, or random timing), then the framework’s added complexity is not earning its keep — and by its own logic, it is insolvent.
+**What would falsify this framework:** If surplus capacity, metabolic reach, circulation rate, integration density, and niche construction show no predictive advantage over simpler single-variable models (e.g., raw market size, or random timing), then the framework’s added complexity is not earning its keep — and by its own logic is insolvent.
 
 -----
 
