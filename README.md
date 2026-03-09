@@ -6,7 +6,7 @@ A skill for improving the luck of your projects, developed from an applied theor
 
 A framework for diagnosing why some things persist and compound while others don't — and for building artifacts that do. It gives AI systems (and their users) a shared vocabulary and a structured diagnostic for evaluating choices, strategies, products, and systems.
 
-The core idea: luck is not a position. It is a rate — the rate at which you increase the throughput, circulation, and integration of the systems you participate in.
+The core idea: Luck is not a position nor an outcome. Luck is a fundamental force, a current — your capacity to increase the throughput, circulation, and integration of the systems you inhabit.
 
 ## Usage
 
