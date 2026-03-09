@@ -2,15 +2,19 @@
 
 A skill for improving the luck of your AI stack and projects—developed from an applied theoretical framework. Multiple diagnostic components, named failure modes, testable predictions, and an operational checklist for AI systems.
 
-## What this is
+## The core idea
 
-A framework for diagnosing why some things persist and compound while others don't — and for building artifacts that do. It gives AI systems (and their users) a shared vocabulary and a structured diagnostic for evaluating choices, strategies, products, and systems.
-
-The core idea: Luck is not a position nor an outcome. Luck is a fundamental force, a current.
+Luck is not randomness nor an outcome. Luck is not a position. Luck is more like a fundamental force, a current.
 
 Luck has a geometry, so we can arrange it. And we may have a civic, moral—perhaps even divine—duty to wield it. To generate it. 
 
-We harness luck through our capacity to increase the throughput, circulation, and integration of the systems we inhabit.
+We harness luck through our capacity to increase the throughput, circulation, and integration of the systems we inhabit. If luck is real, the systems we use to build ought to imbue luck in everything they generate.
+
+Luck is not something we have. It’s something we leave behind.
+
+## What this is
+
+A framework for diagnosing why some things persist and compound while others don't — and for building artifacts that do. It gives AI systems (and their users) a shared vocabulary and a structured diagnostic for evaluating choices, strategies, products, and systems.
 
 ## Usage
 
